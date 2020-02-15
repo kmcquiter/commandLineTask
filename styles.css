@@ -1,0 +1,24 @@
+
+
+.font-size {
+     font-size: 50px;
+     color: red;
+}
+
+.green-box{
+
+ background-color: lightgreen;
+ height: 300px;
+ width: 300px;
+
+}
+
+.black-box{
+
+    background-color: black;
+    height: 300px;
+    width: 300px;
+    color: yellow;
+    
+   }
+
